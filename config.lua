@@ -26,7 +26,7 @@ lvim.plugins = {
   },
 }
 
--- lvim.colorscheme = "catppuccin"
+lvim.colorscheme = "catppuccin"
 
 local ok, copilot = pcall(require, "copilot")
 if not ok then
